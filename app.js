@@ -1,1 +1,2 @@
-Console.log('First');
+console.log('First');
+console.log ('Second');
